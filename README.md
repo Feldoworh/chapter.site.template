@@ -30,7 +30,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 		<details>
 	</li>
 	<li>While <b>📄 _layouts/home.html</b> will be wrapped around <b>📄 _layouts/default.html</b></li>
-	<li><b>📄 _layouts/home.html</b> and <b>📄 _layouts/default.html</b> contains all the stylesheets, images from 📂/assets</li>
+	<li><b>📄 _layouts/home.html</b> and <b>📄 _layouts/default.html</b> contains all the stylesheets, images from <b>📂/assets</b></li>
 </ol>
 
 
