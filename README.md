@@ -6,7 +6,7 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 
 First of all when you fork this repository and enable <b>GitHub Pages Sources</b> for <b>Master branch</b>
 <ol>
-	<li>The <code><b>📄/_config.yml</b> file</code> will be initialized, all the configurations will be applied that were written inside <code><b>📄/_config.yml</b> file</code></li>
+	<li>The <code><b>📄/_config.yml</b> file</code> will be initialized, all the configurations will be applied that were written inside the <code><b>📄/_config.yml</b> file</code></li>
 	<li>
 		<details>
 			<summary>Then it (GitHub Pages) will start looking for <code><b>📄 /index.md</b> file</code> which is the first page of the whole repository.<br></summary>
