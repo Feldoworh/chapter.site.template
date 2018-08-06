@@ -5,7 +5,6 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 ## Understanding the Jekyll project structure.
 
 First of all when you fork this repository and enable <b>GitHub Pages Sources</b> for <b>Master branch</b>
-First of all when you fork this repository and enable <b>GitHub Pages Sources</b> for <b>Master branch</b>
 <ol>
 	<li>The <b>📄/_config.yml</b> will be initialized, all the configurations will be applied that were written in <b>📄/_config.yml</b></li>
 	<li>
