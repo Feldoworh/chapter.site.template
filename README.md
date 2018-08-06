@@ -33,7 +33,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 	<li><code><b>📄 _layouts/home.html</b></code> and <code><b>📄 _layouts/default.html</b></code> linking all the stylesheets and images<br> to the resources inside <code><b>📂/assets</b> folder</code>
 	</li>
 	<li><code><b>📂_includes</b></code> contains all reusable parts for <code><b>📂_layouts</b></code></li>
-	<li><code><b>📂_posts</b> folder</code> contains your own written posts that are registered and could be linked by either <code><b>📂_includes</b></code>,  <code><b>📂_layouts</b></code> or <code><b>📂assets</b></code></li>
+	<li><code><b>📂_posts</b> folder</code> contains your own written posts that are scanned and could be linked by either <code><b>📂_includes</b></code>,  <code><b>📂_layouts</b></code> or <code><b>📂assets</b></code></li>
 	<li>GitHub Pages forms index.html and serves it to your browser.</li>
 	<li>Your browser receives index.html, stylesheets, images and displays them.</li>
 </ol>
