@@ -8,7 +8,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 <ol> 
  <li>the <b>📄/_config.yml</b> will be initialized, all the configurations will be applied that were written in <b>📄/_config.yml</b></li>
  <li>then it (GitHub Pages) will start looking for <b>📄 /index.md</b> file which is the first page of the whole repository.<br> 
-     <blockquote>Inside this file there is only a single important line of Jekyll settings: 
+     <blockquote>Inside this file there is only a single most important line of Jekyll settings: <b> layout:</b>
      <br><img src="https://cdn.pbrd.co/images/HxTVVUB.png" alt="foo" title="title" />
       </blockquote>
 </li>
