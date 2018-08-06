@@ -13,6 +13,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
      <br><b> <code>layout: home</code></b> line tells Jekyll to look for a layout (<b>📄 home.html</b>) inside <b>📂/_layouts</b> folder
       </blockquote>
 </li>
+<li>the layout (<b>📄 home.html</b>) will be applied to <b>📄 /index.md</b> </li>
  
  
 </ol>
