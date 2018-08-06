@@ -7,7 +7,10 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 First of all when you fork this repository and enable <b>GitHub Pages Sources</b> for <b>Master branch</b>
 <ol> 
  <li>the <b>📄/_config.yml</b> will be initialized, all the configurations will be applied that were written in <b>📄/_config.yml</b></li>
- <li>then it (GitHub Pages) will start looking for <b>📄 /index.md</b> file which is the first page of the whole repository.</li>
+ <li>then it (GitHub Pages) will start looking for <b>📄 /index.md</b> file which is the first page of the whole repository.<br> 
+     Inside this file there is only a single important line of Jekyll settings: 
+     <br><img src="https://cdn.pbrd.co/images/HxTVVUB.png" alt="foo" title="title" />
+</li>
  
  
 </ol>
