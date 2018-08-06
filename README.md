@@ -5,22 +5,27 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 ## Understanding the Jekyll project structure.
 
 First of all when you fork this repository and enable <b>GitHub Pages Sources</b> for <b>Master branch</b>
-<ol>	
-	<li>The	<b>📄/_config.yml</b>	will	be	initialized,	all	the	configurations	will	be	applied	that	were	written	in	<b>📄/_config.yml</b></li>
-	<li>Then	it	(GitHub	Pages)	will	start	looking	for	<b>📄	/index.md</b>	file	which	is	the	first	page	of	the	whole	repository.<br>	
-		<blockquote>Inside	this	file	there	is	only	a	single	most	important	line	of	Jekyll	settings:	<code><b>layout:</b></code>
-			<br><img	src="https://cdn.pbrd.co/images/HxTVVUB.png"	alt="foo"	title="title"	/>
-			<br><b>	<code>layout:	home</code></b>	line	tells	Jekyll	to	look	for	a	layout	(<b>📄	home.html</b>)	inside	<b>📂/_layouts</b>	folder
-		</blockquote>
+<ol>
+<li>The <b>📄/_config.yml</b> will be initialized, all the configurations will be applied that were written in <b>📄/_config.yml</b></li>
+<li>
+   Then it (GitHub Pages) will start looking for <b>📄 /index.md</b> file which is the first page of the whole repository.<br> 
+   <blockquote>Inside this file there is only a single most important line of Jekyll settings: <code><b>layout:</b></code>
+      <br><img src="https://cdn.pbrd.co/images/HxTVVUB.png" alt="foo" title="title" />
+      <br><b> <code>layout: home</code></b> line tells Jekyll to look for a layout (<b>📄 home.html</b>) inside <b>📂/_layouts</b> folder
+   </blockquote>
 </li>
-<li>The	layout	(<b>📄	_layouts/home.html</b>)	will	be	wraped	around	<b>📄	/index.md</b>	with	html
-	<blockquote>The	layout	(<b>📄	_layouts/home.html</b>)	generaly	consist	of	another	layout	and	a	{{	content	}}	variable.	
-		<ol>
-			<li>Another	declaration	of	<code>layout:	default</code>	at	the	top	of	the	inside	it.	</li>
-			<li>A	special	variable	{{	content	}} </li>
-		</ol>
-  <img	src="https://cdn.pbrd.co/images/HxUoxXl.png"	alt="foo"	title="title"	/>
-	</blockquote>
+<li>
+   The layout (<b>📄 _layouts/home.html</b>) will be wraped around <b>📄 /index.md</b> with html
+   <blockquote>
+   <img src="https://cdn.pbrd.co/images/HxUoxXl.png" alt="foo" title="title" />
+      The layout (<b>📄 _layouts/home.html</b>) generaly consist of another layout and a {{ content }} variable. 
+      <ol>
+         <li>Another declaration of <code>layout: default</code> at the top of the inside it. </li>
+         <li>A special variable {{ content }}</li>
+      </ol>
+   </blockquote>
+   
+</li>
 	
 	
 	
