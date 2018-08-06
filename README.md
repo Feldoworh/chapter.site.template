@@ -18,7 +18,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 	</li>
 	<li>
 		<details>
-			<summary>The layout (<b>📄 _layouts/home.html</b>) will be wraped around <b>📄 /index.md</b> with html</summary>
+			<summary>The layout (<code><b>📄 _layouts/home.html</b></code>) will be wraped around <code><b>📄 /index.md</b> file</code> with html</summary>
 			<blockquote>
 				<img src="https://cdn.pbrd.co/images/HxUoxXl.png" alt="foo" title="title" />
 				<br>The layout (<b>📄 _layouts/home.html</b>) generaly consist of another layout and a <code>{{ content }}</code> variable. 
