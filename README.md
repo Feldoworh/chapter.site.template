@@ -2,6 +2,14 @@
 ![:octocat:](https://assets-cdn.github.com/images/icons/emoji/octocat.png ":octocat:")The Project has been started by [Juuso (jeukku)](https://github.com/jeukku) in order to form a template example   
 that could be used across The Zeitgeist Movement Chapters' websites hosted on any GitHub Repository.
 
+## Understanding the Jekyll project structure.
+
+First of all when you fork this repository and enable <b>GitHub Pages Sources</b> for <b>Master branch</b>
+<ol> 
+ <li>the <b>📄_config.yml</b> will be initialized, all the configurations will be applied that were written in <b>📄_config.yml</b></li>
+ <li>then it (GitHub Pages) will start looking for <b>📄 index.md</b> file which will</li>
+</ol>
+
 
 ## The Project's main structure
 
