@@ -18,7 +18,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
    The layout (<b>📄 _layouts/home.html</b>) will be wraped around <b>📄 /index.md</b> with html
    <blockquote>
    <img src="https://cdn.pbrd.co/images/HxUoxXl.png" alt="foo" title="title" />
-      The layout (<b>📄 _layouts/home.html</b>) generaly consist of another layout and a {{ content }} variable. 
+      <br>The layout (<b>📄 _layouts/home.html</b>) generaly consist of another layout and a {{ content }} variable. 
       <ol>
          <li>Another declaration of <code>layout: default</code> at the top of the inside it. </li>
          <li>A special variable {{ content }}</li>
