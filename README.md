@@ -29,6 +29,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 			</blockquote>
 		<details>
 	</li>
+	<li>While <b>📄 _layouts/home.html</b> will be wrapped around <b>📄 _layouts/default.html</b></li>
 </ol>
 
 
