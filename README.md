@@ -33,7 +33,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 	<li><code><b>📄 _layouts/home.html</b></code> and <code><b>📄 _layouts/default.html</b></code> linking all the stylesheets and images<br> to the resources inside <code><b>📂/assets</b> folder</code>
 	</li>
 	<li><code><b>📂_includes</b></code> contains all reusable parts for <code><b>📂_layouts</b></code></li>
-	<li><code><b>📂_posts</b> folder</code> contains your own written posts that are scanned and could be linked by either <code><b>📂_includes</b></code>,  <code><b>📂_layouts</b></code> or <code><b>📂assets</b></code></li>
+	<li><code><b>📂_posts</b> folder</code> contains your own written posts that are scanned and could be linked from <br><code><b>📂_includes</b></code>,  <code><b>📂_layouts</b></code> or <code><b>📂assets</b></code></li>
 	<li>GitHub Pages forms index.html and serves it to your browser.</li>
 	<li>Your browser receives index.html, stylesheets, images and displays them.</li>
 </ol>
@@ -49,7 +49,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 | 📂_sections | **Can someone take the quest** ❔ <br>We need to fill this interesting space. |
 | 📂assets | The place where Images, Stylesheets are stored |
 | 📂pages | These are the partials that can be mixed and matched by your layouts and posts to facilitate reuse.  |
-| 📄_config.yml | Stores configuration data. Many of these options can be specified from the command line executable but it’s easier to specify them here so you don’t have to remember them.
+| 📄_config.yml | Stores configuration data. Many of these options can be specifie the command line executable but it’s easier to specify them here so you don’t have to remember them.
 | 📄 index.md | The main GitHub Pages serving file, this is the main file GitHub serves after _config.yml is finished rendering.
  
 
