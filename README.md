@@ -49,8 +49,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 | 📄_config.yml | Stores configuration data. Many of these options can be specified from the command line executable but it’s easier to specify them here so you don’t have to remember them.
 | 📄 index.md | The main GitHub Pages serving file, this is the main file GitHub serves after _config.yml is finished rendering.
  
- 
- 
+
  <details> 
   <summary> 🐢 <code>yo bro where is my home.</code> https://jekyllrb.com/docs/structure/</summary>
 🐢<code>sometimes I travel home from far away.</code><br>  
@@ -81,3 +80,4 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 🐢<code>let's go home and find the truth of train of though.</code><br>  
 🐢<code>It's here, it is near, near - it's home.</code><br>  
 🐢<code>I'm turtle, but I know when to come home</code><br>  
+</details>
