@@ -18,7 +18,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
  
  <blockquote>The layout (<b>📄 _layouts/home.html</b>) generaly consist of another layout and a {{ content }} variable. 
  <ol>
-  <li>Another declaration of <code>layout:</code> at the top of the inside it. </li>
+  <li>Another declaration of <code>layout: default</code> at the top of the inside it. </li>
   <li>A special variable {{ content}}</li>
  </ol></blockquote>
  </li>
