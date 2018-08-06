@@ -14,7 +14,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
       </blockquote>
 </li>
 <li>the layout (<b>📄 home.html</b>) will be applied to <b>📄 /index.md</b>
- <blockquote>The layout (<b>📄 home.html</b>) generaly consist of 
+ <blockquote>The layout (<b>📄 _layouts/home.html</b>) generaly consist of </blockquote>
  </li>
  
  
