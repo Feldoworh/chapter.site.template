@@ -12,7 +12,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 			<summary>Then it (GitHub Pages) will start looking for <code><b>📄 /index.md</b> file</code> which is the first page of the whole repository.<br></summary>
 			<blockquote>Inside this file there is only a single most important line of Jekyll settings: <code><b>layout:</b></code>
 				<br><img src="https://cdn.pbrd.co/images/HxTVVUB.png" alt="foo" title="title" />
-				<br><b> <code>layout: home</code></b> line tells Jekyll to look for a layout (<code><b>📄 home.html</b> file</code>) inside <b>📂/_layouts</b> folder
+				<br><b> <code>layout: home</code></b> line tells Jekyll to look for a layout (<code><b>📄 home.html</b> file</code>) inside <code><b>📂/_layouts</b> folder</code>
 			</blockquote>
 		</details>
 	</li>
