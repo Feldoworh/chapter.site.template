@@ -16,7 +16,10 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 <li>The layout (<b>📄 _layouts/home.html</b>) will be wraped around <b>📄 /index.md</b> with html
  <img src="https://cdn.pbrd.co/images/HxUoxXl.png" alt="foo" title="title" />
  
- <blockquote>The layout (<b>📄 _layouts/home.html</b>) generaly consist of </blockquote>
+ <blockquote>The layout (<b>📄 _layouts/home.html</b>) generaly consist of another layout: 
+ <ol>
+  <li>Another declaration of <code>layout:</code> at the top of the inside it. </li> 
+ </ol></blockquote>
  </li>
  
  
