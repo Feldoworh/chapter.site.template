@@ -32,6 +32,8 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 	<li>While <b>📄 _layouts/default.html</b> will be wrapped around <b>📄 _layouts/home.html</b></li>
 	<li><b>📄 _layouts/home.html</b> and <b>📄 _layouts/default.html</b> contains all the stylesheets, images from <b>📂/assets</b> folder
 	</li>
+	<li>GitHub Pages forms index.html and serves it to your browser.</li>
+	<li>Your browser receives index.html, stylesheets, images and displays them.</li>
 </ol>
 
 
