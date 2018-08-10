@@ -7,7 +7,7 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 <h3>Pro Tip:</h3>
 <code>
 <b>Folders</b> that begins <b>without</b> an Underscore (_) are directly copied into 
-<code><b>📂/_site</b>(inaccessible for repository users)</code> which then sends everything to browser.
+<code><b>📂/_site</b>(inaccessible for repository users)</code> <br>which then sends everything to browser.
 </code>
 
 <br>First of all when you fork this repository and enable <b>GitHub Pages Sources</b> for <b>Master branch</b>
