@@ -4,7 +4,7 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 
 ## Understanding the Jekyll Project structure.
 
-Pro Tip:<br>
+<h3>Pro Tip:</h3>
 <code>
 <b>Folders</b> that begins <b>without</b> an Underscore (_) are directly copied into 
 <code><b>📂/_site</b>(inaccessible for repository users)</code> which then sends everything to browser.
