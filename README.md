@@ -4,6 +4,12 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 
 ## Understanding the Jekyll Project structure.
 
+<code>
+Pro Tip: 
+<b>Folders</b> that begins <b>without</b> an Underscore (_) are directly copied into 
+<code><b>📂/_site</b>(inaccessible for repository users)</code> which then sends everything to browser.
+</code>
+
 First of all when you fork this repository and enable <b>GitHub Pages Sources</b> for <b>Master branch</b>
 <ol>
 	<li>The <code><b>📄/_config.yml</b> file</code> will be initialized, all the configurations will be applied that were written inside.</li>
