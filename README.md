@@ -6,7 +6,7 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 
 <h3>Pro Tip:</h3>
 <code>
-<b>Folders</b> that begins <b>without</b> an Underscore (_) are directly copied into 
+<b>Folders</b> that begins <b>without</b> an <b>Underscore (_)</b> are directly copied into 
 <code><b>📂/_site</b>(inaccessible for repository users)</code> and all its contents are sent to a browser.
 </code>
 
