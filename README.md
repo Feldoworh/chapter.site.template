@@ -34,7 +34,7 @@ First of all when you fork this repository and enable <b>GitHub Pages Sources</b
 	</li>
 	<li><code><b>📂_includes</b></code> contains all reusable parts for <code><b>📂_layouts</b></code></li>
 	<li><code><b>📂_posts</b> folder</code> contains your own written posts that are scanned by Jekyll and could be linked from html files in <br><code><b>📂_includes</b></code>,  <code><b>📂_layouts</b></code>, <code><b>📂assets</b></code> or by <code><b>📄 index.md</b></code></li>
-	<li>GitHub Pages forms index.html and serves it to your browser.</li>
+	<li>GitHub Pages forms index.html and serves it to your browser with resources from  <code><b>📂assets</b> folder </code>.</li>
 	<li>Your browser receives index.html, stylesheets, images and displays them.</li>
 </ol>
 
