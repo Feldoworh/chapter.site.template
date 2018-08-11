@@ -3,7 +3,7 @@
 that could be used across The Zeitgeist Movement Chapters' websites hosted on any GitHub Repository.
 
 Documentation how to use this template is found here: <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ⇒⇨→⇲ https://tzmcommunity.github.io/docs/creating-a-new-chapter-website-with-template/
+&nbsp;&nbsp;&nbsp;&nbsp; ⇨ https://tzmcommunity.github.io/docs/creating-a-new-chapter-website-with-template/
 
 ## Understanding the Jekyll Project structure.
 
