@@ -4,7 +4,7 @@ that could be used across The Zeitgeist Movement Chapters' websites hosted on an
 
 Documentation how to use this template is found here: <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ●&nbsp; https://tzmcommunity.github.io/docs/creating-a-new-chapter-website-with-template/
-
+- test
 
 ## Understanding the Jekyll Project structure.
 
