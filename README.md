@@ -1,6 +1,8 @@
 ## chapter.site.template 
 ![:octocat:](https://assets-cdn.github.com/images/icons/emoji/octocat.png ":octocat:")The Project has been started by [Juuso (jeukku)](https://github.com/jeukku) in order to form a template example   
 that could be used across The Zeitgeist Movement Chapters' websites hosted on any GitHub Repository.
+
+Documentation how to use this template is found here:
 - <a href="https://tzmcommunity.github.io/docs/creating-a-new-chapter-website-with-template/">[tzmcommunity.github.io/.../creating-a-new-chapter-website-with-template/]</a>
 
 ## Understanding the Jekyll Project structure.
